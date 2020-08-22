@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Sample</string>
+    <string name="login_hint_username">Username</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="oreo_cheesecake_logo">Oreo Cheesecake Logo</string>
+    <string name="cheesecake_account_message">Sign in to view your Cheesecake account</string>
+    <string name="button_login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Cheesecake.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.FilledBox"/>
+    <style name="Cheesecake.Toolbar">
+        <item name="titleTextColor">@color/colorBlack</item>
+    </style>
+</resources>
